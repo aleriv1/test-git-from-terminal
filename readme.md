@@ -35,3 +35,5 @@ git pull [rep_link] [branch_name]
 --
 
 git merge
+
+### conflicts
