@@ -27,3 +27,11 @@ feature/about-company
 --
 
 git branch [branch_name]
+
+--
+
+git pull [rep_link] [branch_name]
+
+--
+
+git merge
