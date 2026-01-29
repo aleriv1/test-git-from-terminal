@@ -1,5 +1,7 @@
+### git main commands
+
 1. git status
-2. git adda [files] -- to add files to stage
+2. git add [files] -- to add files to stage
 3. git commit -m ''
 4. git log
 5. git log / git log --oneline
@@ -11,3 +13,17 @@
 ### git additional commands
 
 git reset (git reset --hard)
+
+---
+
+### git branch
+
+master
+
+develop
+feature/main-page
+feature/about-company
+
+--
+
+git branch [branch_name]
