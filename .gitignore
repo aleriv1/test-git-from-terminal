@@ -1,0 +1,6 @@
+build
+
+node_modules
+
+.env
+# it stores private data
